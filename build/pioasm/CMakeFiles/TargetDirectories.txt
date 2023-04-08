@@ -1,0 +1,3 @@
+C:/Users/dylan/Documents/Rapberry_Pi_Work/thermistor/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/dylan/Documents/Rapberry_Pi_Work/thermistor/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/dylan/Documents/Rapberry_Pi_Work/thermistor/build/pioasm/CMakeFiles/rebuild_cache.dir
